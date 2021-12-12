@@ -1,0 +1,25 @@
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\КПІ\3курс\Семестр-2\Технології розробки програмного рабезпечення\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Vladislav\Desktop\Lab-7-8\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
